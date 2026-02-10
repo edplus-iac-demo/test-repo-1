@@ -1,5 +1,5 @@
 # 🚀 Project Name
-> _Short summary of the project purpose, scope, or problem it solves._
+> This is a test repository for IAC Demo.
 
 ---
 
